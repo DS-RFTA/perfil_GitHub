@@ -82,3 +82,14 @@ Meu objetivo é...
 💡 Essa seção deve evoluir junto com você.
 
 ```
+
+
+# Passo 4 – Destaque suas tecnologias
+
+Mostrar sua stack de forma rápida, mostre apenas tecnologias que você realmente utiliza.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+👉 Link:  https://shields.io/
+👉 Link: https://skillicons.dev/
+
