@@ -4,10 +4,15 @@ O README de perfil é a primeira impressão que muitas pessoas terão do seu Git
 Esse guia é baseado na minha experiência e quero ajudar pessoas iniciantes na área assim como eu. Estou aberta a dicas. Dito isso, ao final deste guia seu README terá:
 
 ✅ Banner personalizado
+
 ✅ Texto animado
+
 ✅ Seção "Sobre mim"
+
 ✅ Tecnologias (badges)
+
 ✅ Estatísticas do GitHub
+
 ✅ Links para contato
 
 # Passo 0 – Crie o repositório do perfil
