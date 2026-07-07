@@ -41,6 +41,6 @@ Aqui o objetivo é criar uma identidade visual para o seu perfil. Experimente di
 👉 Link : https://capsule-render.vercel.app/
 
 📋 Código: 
-<p align="center">
+```<p align="center">
  <img src="COLE O LINK DO SEU BANNER">
-</p>
+</p>```
