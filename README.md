@@ -47,3 +47,9 @@ Aqui o objetivo é criar uma identidade visual para o seu perfil. Experimente di
  <img src="COLE O LINK DO SEU BANNER">
 </p>
 ```
+
+# Passo 2 – Adicione um texto animado
+
+Apresentar rapidamente quem você é, utilize frases curtas como "Front-end Developer", "Estudando React" ou "Sempre aprendendo".
+
+👉 Link : https://readme-typing-svg.demolab.com/demo/
