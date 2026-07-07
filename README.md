@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Perfil%20no%20GitHub">
+</p>
+
 # Guia para Iniciantes: Como criar um README de perfil no GitHub
 
 O README de perfil é a primeira impressão que muitas pessoas terão do seu GitHub. Com algumas ferramentas gratuitas, você pode criar um perfil bonito, organizado e profissional em poucos minutos.
@@ -35,3 +39,8 @@ Susgestão "Perfil"
 Aqui o objetivo é criar uma identidade visual para o seu perfil. Experimente diferentes temas, cores e formatos.
 
 👉 Link : https://capsule-render.vercel.app/
+
+📋 Código: 
+<p align="center">
+ <img src="COLE O LINK DO SEU BANNER">
+</p>
