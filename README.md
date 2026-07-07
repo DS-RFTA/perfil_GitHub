@@ -38,7 +38,9 @@ Susgestão "Perfil"
  
 # Passo 1 – Crie um banner
 
-https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Crie%20um%20banner&fontColor=000000
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Crie%20um%20banner&fontColor=000000&fontAlign=47&animation=fadeIn&fontSize=24">
+</p>
 
 Aqui o objetivo é criar uma identidade visual para o seu perfil. Experimente diferentes temas, cores e formatos.
 
@@ -59,3 +61,24 @@ Aqui o objetivo é criar uma identidade visual para o seu perfil. Experimente di
 Apresentar rapidamente quem você é, utilize frases curtas como "Front-end Developer", "Estudando React" ou "Sempre aprendendo".
 
 👉 Link : https://readme-typing-svg.demolab.com/demo/
+
+
+# Passo 3 – Escreva um "Sobre mim"
+
+Contar um pouco sobre sua trajetória.
+
+# ✍️ O que escrever: 
+
+Fale sobre sua formação, seus estudos, a área em que deseja atuar, seus objetivos e o que gosta de desenvolver.
+
+📋 Exemplo:
+ 
+## 🚀 Sobre mim
+
+```
+Sou estudante de...
+Atualmente estudo...
+Meu objetivo é...
+💡 Essa seção deve evoluir junto com você.
+
+```
