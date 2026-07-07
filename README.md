@@ -4,6 +4,8 @@
 
 # Guia para Iniciantes: Como criar um README de perfil no GitHub
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Guia+para+Iniciantes%3A+;Como+criar+um+README+de+perfil+no+GitHub)](https://git.io/typing-svg)
+
 O README de perfil é a primeira impressão que muitas pessoas terão do seu GitHub. Com algumas ferramentas gratuitas, você pode criar um perfil bonito, organizado e profissional em poucos minutos.
 Esse guia é baseado na minha experiência e quero ajudar pessoas iniciantes na área assim como eu. Estou aberta a dicas. Dito isso, ao final deste guia seu README terá:
 
@@ -36,6 +38,8 @@ Susgestão "Perfil"
  
 # Passo 1 – Crie um banner
 
+https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Crie%20um%20banner&fontColor=000000
+
 Aqui o objetivo é criar uma identidade visual para o seu perfil. Experimente diferentes temas, cores e formatos.
 
 👉 Link : https://capsule-render.vercel.app/
@@ -49,6 +53,8 @@ Aqui o objetivo é criar uma identidade visual para o seu perfil. Experimente di
 ```
 
 # Passo 2 – Adicione um texto animado
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passo+2;Adicione+um+texto+animado)](https://git.io/typing-svg)
 
 Apresentar rapidamente quem você é, utilize frases curtas como "Front-end Developer", "Estudando React" ou "Sempre aprendendo".
 
