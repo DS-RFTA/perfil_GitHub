@@ -99,6 +99,7 @@ Mostrar sua stack de forma rápida, mostre apenas tecnologias que você realment
 Aqui você exibe sua atividade no GitHub, uma dica: utilize o mesmo tema do restante do README.
 
 👉 Link: https://github-enchanter-list.vercel.app/list/summarycards
+
 📋 Código
  
 ``` 
