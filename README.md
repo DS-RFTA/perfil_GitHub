@@ -93,3 +93,19 @@ Mostrar sua stack de forma rápida, mostre apenas tecnologias que você realment
 👉 Link:  https://shields.io/
 👉 Link: https://skillicons.dev/
 
+
+## Passo 5 – Adicione estatísticas
+
+Aqui você exibe sua atividade no GitHub, uma dica: utilize o mesmo tema do restante do README.
+
+👉 Link: https://github-enchanter-list.vercel.app/list/summarycards
+📋 Código
+ 
+``` 
+<p align="center">
+ <img src="LINK CARD 1">
+ 
+ <img src="LINK CARD 2">
+</p>
+
+``` 
