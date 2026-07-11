@@ -167,6 +167,6 @@ A partir daqui, personalize cada seção, experimente novas ferramentas e deixe 
 
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gostou?%20Dê%20um%20Folk,%20Estrela%20e%20não%20deice%20deixe%20de%20compartilhar.&fontSize=20&section=footer&reversal=true">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gostou?%20Dê%20um%20Folk,%20Estrela%20e%20não%20deixe%20de%20compartilhar.&fontSize=20&section=footer&reversal=true">
 </p>
 
